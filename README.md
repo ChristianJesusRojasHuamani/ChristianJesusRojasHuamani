@@ -11,11 +11,11 @@ Soy una persona apasionada por la tecnología, autodidacta, me gusta el trabajo 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-339933?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-FA7343?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![PlayConsole](https://img.shields.io/badge/PlayConsole-339933?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)]()
+[![PlayStore](https://img.shields.io/badge/PlayStore-339933?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)]()
 </br>
 [![VS](https://img.shields.io/badge/Visual_Studio-A540F9?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C_Sharp-A540F9?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
-[![Xamarin](https://img.shields.io/badge/C_Sharp-A540F9?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=101010)]()
+[![Xamarin](https://img.shields.io/badge/Xamarin-A540F9?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=101010)]()
 </br>
 [![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-FFCA28?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-FFCA28?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
