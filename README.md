@@ -30,7 +30,7 @@ Y más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/christian-jes%C3%BAs-rojas-huamani-86a825214/)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@christianrojas04-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/christianrojas04)
-[![Twitter](https://img.shields.io/badge/Twitter-@devexperto1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://devexperto.com/twitter)
+[![Twitter](https://img.shields.io/badge/Twitter-@Cjrh04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://devexperto.com/twitter)
 [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube)
 
 
