@@ -9,7 +9,7 @@ Soy una persona apasionada por la tecnología, autodidacta, me gusta el trabajo 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-339933?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-FA7343?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-EE7B30?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![PlayStore](https://img.shields.io/badge/PlayStore-339933?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)]()
 </br>
