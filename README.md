@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# 👋 Hola, mi nombre es Christian Rojas
+### Full Stack Developer | Mobile Developer | Database | Cloud | Systems Engineer en IQF
+ 
+
+I help developers reach their goals with my training and mentoring.
+
+
+
 <!--
 **ChristianJesusRojasHuamani/ChristianJesusRojasHuamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
